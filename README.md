@@ -67,13 +67,12 @@ Deployed the website using GitHub Pages for a seamless live preview.
 **Tech Skills:** 
 1. Intermediate - can read code samples easily. 
 
-
-
-
-
-
-
-
 ## **User Stories:** 
+
+1. **As a recruiter**, I want to see Puneet's skills/resume highlighted clearly, so that I can quickly decide if he's a good match.
+2. **As a recruiter**, I want a prominent link to Puneet's LinkedIn account so that I can reach him out.
+3. **As a classmate**, I want to see Puneet's projects with descriptions and Github links, so that I can explore the code and learn.
+4. **As a professor**, I want to check how well the site is structured, so that I can give feedback on usability.
+5. **As a visitor on phone**, I want the website to be mobile-friendly, so that I don't have to zoom or scroll awkwardly.
 
 ## **Design Mockups:**
