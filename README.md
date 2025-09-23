@@ -27,6 +27,9 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 ## **User Personas:** 
 
+### **Persona 1 - Recruiter:**
+
+
 ## **User Stories:** 
 
 ## **Design Mockups:**
