@@ -10,11 +10,11 @@ Project 1 - Web Development CS5610 @ Northeastern University
 **Overview:** Designed and developed a responsive personal portfolio website to showcase my resume, projects and some information about me. The site focuses on clean UI/UX and accessibility, allowing visitors to quickly explore my work and background.
 
 **Features:**
-Fully responsive layout optimized for desktop and mobile devices.
-Smooth navigation with a sticky navbar.
-Integrated "Download Resume" button and interactive contact form.
-Custom JavaScript feature: Added some custom JavaScript and CSS code to add a mouse trail when the user moves the cursor on my website. 
-Search engine–friendly structure with semantic HTML tags.
+1. Fully responsive layout optimized for desktop and mobile devices.
+2. Smooth navigation with a sticky navbar.
+3. Integrated "Download Resume" button and interactive contact form.
+**4. Custom JavaScript feature: Added some custom JavaScript and CSS code to add a mouse trail when the user moves the cursor on my website.** 
+5. Search engine–friendly structure with semantic HTML tags.
 
 **Key Learnings & Outcome:**
 Strengthened front-end development skills and deepened understanding of DOM manipulation.
