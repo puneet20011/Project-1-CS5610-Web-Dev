@@ -46,7 +46,10 @@ Deployed the website using GitHub Pages for a seamless live preview.
 2. Doesn't have time to read long descriptions about projects.
 
 **Tech Skills:**
-1. Comfortable using LinkedIn and portfolio websites.   
+1. Comfortable using LinkedIn and portfolio websites.
+
+
+### **Persona 2 - Peer:** 
 
 
 
