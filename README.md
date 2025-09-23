@@ -69,10 +69,12 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 ## **User Stories:** 
 
-1. **As a recruiter**, I want to see Puneet's skills/resume highlighted clearly, so that I can quickly decide if he's a good match.
-2. **As a recruiter**, I want a prominent link to Puneet's LinkedIn account so that I can reach him out.
-3. **As a classmate**, I want to see Puneet's projects with descriptions and Github links, so that I can explore the code and learn.
-4. **As a professor**, I want to check how well the site is structured, so that I can give feedback on usability.
-5. **As a visitor on phone**, I want the website to be mobile-friendly, so that I don't have to zoom or scroll awkwardly.
+### **User Story 1:** 
+
+**Deepnain the recruiter** is browsing potential candidates for a web developer position. He wants to quickly find somoeone with strong full-stack skills. He opens Puneet's portfolio website, downloads his resume and scans it, and then clicks on the "Projects" section to see the recent projects he has built with links to live demo and Github for each of them. By the end, he knows exactly what Puneet can do and sends him an email for an interview.
+
+### **User Story 2:** 
+
+
 
 ## **Design Mockups:**
