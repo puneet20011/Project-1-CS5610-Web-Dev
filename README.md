@@ -24,3 +24,5 @@ Deployed the website using GitHub Pages for a seamless live preview.
 Live Demo: https://puneetsinghpuri.netlify.app/
 
 GitHub Repository: https://github.com/puneet20011/Project-1-CS5610-Web-Dev.git
+
+## **User Personas** 
