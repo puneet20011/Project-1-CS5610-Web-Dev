@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+    <!--Missing meta data -->
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
@@ -34,7 +34,7 @@
     <main>
       <section class="home">
         <div class="home-content">
-          <div class="home-text">
+          <div class="home-text"><!--Not mobile friendly with the index page. Try some of the bootstrap grids-->
             <h1>Hello, I'm Puneet Singh Puri</h1>
             <h2>I am a student at Northeastern University</h2>
             <p>
@@ -44,9 +44,8 @@
             </p>
             <br />
             <p>Find me on:</p>
-            <a href="https://github.com/puneet20011">
-              <button class="btn-social">Github</button>
-            </a>
+            <!-- The reason why you have these extra "_" right after these buttons is because you are putting a next line in the <a></a> tags. You should keep it all in one line to avoid putting these extra whitespaces. Next lines are also considered whitespace when HTML renders.-->
+            <a href="https://github.com/puneet20011"><button class="btn-social">Github</button></a>
             <a href="https://www.linkedin.com/in/puneet-singh-puri-561581322/">
               <button class="btn-social">LinkedIn</button>
             </a>
@@ -74,6 +73,7 @@
       integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
       crossorigin="anonymous"
     ></script>
+    <!--Avoid whitespace in links or paths-->
     <script src="./javaScript /script.js"></script>
   </body>
 </html>
