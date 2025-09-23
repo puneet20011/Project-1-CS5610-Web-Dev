@@ -4,6 +4,7 @@ Project 1 - Web Development CS5610 @ Northeastern University
 
 ## **Project Description:**
 
+
 **Project:** Puneet’s personal homepage
 
 **Tech Stack:** HTML5, CSS3, JavaScript
