@@ -27,6 +27,8 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 **YouTube video showcasing live demo with narration:** https://www.youtube.com/watch?v=a4pUr6d0fi8
 
+**Google slides:** https://docs.google.com/presentation/d/1oqIC1lubBuuPrOPoF-L9EFMmB8pIG47iPb_Okw5lyuU/edit?usp=sharing
+
 ## **User Personas:** 
 
 ### **Persona 1 - Recruiter:**
