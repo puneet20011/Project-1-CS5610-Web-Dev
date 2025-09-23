@@ -29,6 +29,25 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 ### **Persona 1 - Recruiter:**
 
+**Name:** Deepnain Kundra
+**Age:** 45
+**Job Title:** Technical Recruiter
+**Company:** HCL Technologies
+**Goals:** 
+1. Quickly review Puneet's skills, projects, resume and social handles.
+2. Decide if Puneet is a good fit for a role.
+**Pain points:**
+1. Hates cluttered and slow websites
+2. Doesn't have time to read long descriptions about projects.
+**Tech Skills:**
+1. Comfortable using LinkedIn and portfolio websites.   
+
+
+
+
+
+
+
 
 ## **User Stories:** 
 
