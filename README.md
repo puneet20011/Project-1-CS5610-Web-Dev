@@ -85,5 +85,8 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 ## **Design Mockups:**
 - **Home page:**
-   ![Design Mockup for Home page](Project%201/images/Design%20Mockup%20-%20Home.jpeg)
+![Design Mockup for Home page](Project%201/images/Design%20Mockup%20-%20Home.jpeg)
+
+- **About page:**
+![Design Mockup for About page](Project%201/images/Design%20Mockup%20-%20About.jpeg)
 
