@@ -38,15 +38,15 @@ Deployed the website using GitHub Pages for a seamless live preview.
 **Company:** HCL Technologies
 
 **Goals:** 
-1. Quickly review Puneet's skills, projects, resume and social handles.
-2. Decide if Puneet is a good fit for a role.
+- Quickly review Puneet's skills, projects, resume and social handles.
+- Decide if Puneet is a good fit for a role.
 
 **Pain points:**
-1. Hates cluttered and slow websites
-2. Doesn't have time to read long descriptions about projects.
+- Hates cluttered and slow websites
+- Doesn't have time to read long descriptions about projects.
 
 **Tech Skills:**
-1. Comfortable using LinkedIn and portfolio websites.
+- Comfortable using LinkedIn and portfolio websites.
 
 
 ### **Persona 2 - Peer:** 
@@ -58,14 +58,14 @@ Deployed the website using GitHub Pages for a seamless live preview.
 **Role:** Masters of Science in Computer Science student
 
 **Goals:** 
-1. Get inspiration for her own portfolio.
-2. Learn how Puneet implemented cool JavaScipt feature.
+- Get inspiration for her own portfolio.
+- Learn how Puneet implemented cool JavaScipt feature.
 
 **Pain Points:** 
-1. Gets frustrated when there are no links to contact the developer.
+- Gets frustrated when there are no links to contact the developer.
 
 **Tech Skills:** 
-1. Intermediate - can read code samples easily. 
+- Intermediate - can read code samples easily. 
 
 ## **User Stories:** 
 
