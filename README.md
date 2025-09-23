@@ -25,6 +25,8 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 **GitHub Repository:** https://github.com/puneet20011/Project-1-CS5610-Web-Dev.git
 
+**YouTube video showcasing live demo with narration:** https://www.youtube.com/watch?v=a4pUr6d0fi8
+
 ## **User Personas:** 
 
 ### **Persona 1 - Recruiter:**
