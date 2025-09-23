@@ -90,3 +90,6 @@ Deployed the website using GitHub Pages for a seamless live preview.
 - **About page:**
 ![Design Mockup for About page](Project%201/images/Design%20Mockup%20-%20About.jpeg)
 
+- **Projects page:**
+![Design Mockup for Projects page](Project%201/images/Design%20Mockup%20-%20Projects.jpeg)
+
