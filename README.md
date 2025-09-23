@@ -51,6 +51,22 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 ### **Persona 2 - Peer:** 
 
+**Name:** Sumedha Paul 
+
+**Age:** 23
+
+**Role:** Masters of Science in Computer Science student
+
+**Goals:** 
+1. Get inspiration for her own portfolio.
+2. Learn how Puneet implemented cool JavaScipt feature.
+
+**Pain Points:** 
+1. Gets frustrated when there are no links to contact the developer.
+
+**Tech Skills:** 
+1. Intermediate - can read code samples easily. 
+
 
 
 
