@@ -29,6 +29,8 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 **Google slides:** https://docs.google.com/presentation/d/1oqIC1lubBuuPrOPoF-L9EFMmB8pIG47iPb_Okw5lyuU/edit?usp=sharing
 
+**Gen AI usage:** Developed "About.html" using cursor AI. 
+
 ## **User Personas:** 
 
 ### **Persona 1 - Recruiter:**
