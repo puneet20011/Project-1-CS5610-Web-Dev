@@ -75,6 +75,9 @@ Deployed the website using GitHub Pages for a seamless live preview.
 
 ### **User Story 2:** 
 
+**Sumedha**, a fellow MSCS student, wants ideas for adding interactive features to her own portfolio. She visits Puneet’s website and notices the custom cursor animation. She explores the code links and takes notes on how she can implement something similar in her site, saving hours of trial and error.
+
+
 
 
 ## **Design Mockups:**
