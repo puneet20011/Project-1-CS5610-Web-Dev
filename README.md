@@ -13,7 +13,7 @@ Project 1 - Web Development CS5610 @ Northeastern University
 1. Fully responsive layout optimized for desktop and mobile devices.
 2. Smooth navigation with a sticky navbar.
 3. Integrated "Download Resume" button and interactive contact form.
-**4. Custom JavaScript feature: Added some custom JavaScript and CSS code to add a mouse trail when the user moves the cursor on my website.** 
+4. Custom JavaScript feature: Added some custom JavaScript and CSS code to add a mouse trail when the user moves the cursor on my website.
 5. Search engine–friendly structure with semantic HTML tags.
 
 **Key Learnings & Outcome:**
