@@ -1,3 +1,7 @@
+//Interesting use of javascript to add some flair to the movement of the website
+//Limit the number of trails that can be spawned at any single moment.
+//The timer is not enough, CPU usage spikes when rendering the trails
+
 document.addEventListener("mousemove", (e) => {
   const trail = document.createElement("div");
   trail.classList.add("trail");
